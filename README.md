@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maheshwattamwar
 - 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently in Engineering
+- 🌱 I’m currently pursuing Engineering From SGGSIE&T Vishnupuri Nanded........
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me,call me on 7218232383
 
