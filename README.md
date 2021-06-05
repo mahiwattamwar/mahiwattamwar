@@ -78,8 +78,14 @@
 Thank you so much for visiting my tiny space on [GitHub](https://github.com/mahiwattamwar)! :v: 
 </p>
 
+<br>
+<p> 
+  <h2 align="center">Visitors count</h2>
+</p>
 
-
+<p align="center">
+  <img src="https://profile-counter.glitch.me/mahiwattamwar/count.svg" />
+</p>
 
 
 
