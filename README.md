@@ -9,7 +9,7 @@
  </a> 
 </p> 
   
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahesh</h1>
 <h3 align="center">I Enjoy Developing ideas that live on the internet, whether that be a website, application or anything related.</h3>
 
