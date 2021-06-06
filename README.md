@@ -89,8 +89,13 @@ Thank you so much for visiting my tiny space on [GitHub](https://github.com/mahi
 <p align="center">
   <img src="https://profile-counter.glitch.me/mahiwattamwar/count.svg" />
 </p>
+<br>
+<hr>
+<div align="center">
+ 
+ ![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahiwattamwar&show_icons=true&theme=radical)
 
-
+ </div>
 
 <!---
 mahiwattamwar/mahiwattamwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
