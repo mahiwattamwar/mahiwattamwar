@@ -18,7 +18,7 @@
 
 - 👨🏽‍💻 I’m currently working on **Android and Java**
 - 🌱 I’m currently learning **Javascript**, **Android**, **React**, **Frontend Design**
-- 👯 I’m looking to collaborate on  **OpenSource Projects**
+- 👯 I’m looking to collaborate on  **OpenSource Projects** & **Any idea that impresses Me.**
 
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/mahiwattamwar?tab=repositories">**Github**</a>
 - 💬 Free feel to Ask me about anything, I am Happy to Help  you ☺
