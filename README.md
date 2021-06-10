@@ -96,6 +96,7 @@ Thank you so much for visiting my tiny space on [GitHub](https://github.com/mahi
  ![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahiwattamwar&show_icons=true&theme=radical)
 
  </div>
+ <p><img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /></p>
 
 <!---
 mahiwattamwar/mahiwattamwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
