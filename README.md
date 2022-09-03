@@ -9,7 +9,7 @@
  </a> 
 </p> 
   
-<a href="https://mahiwattamwar.github.io/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" height="175px"/></a>
+<a href="https://mahiwattamwar.github.io/"><img width="100%" height="auto" src="https://www.wingstechsolutions.com/blog/featuring-everything-about-full-stack-development/" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahesh</h1>
 <h3 align="center">I Enjoy Developing ideas that live on the internet, whether that be a website, application or anything related.</h3>
 
