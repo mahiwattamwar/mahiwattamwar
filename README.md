@@ -16,14 +16,14 @@
   <p>I'm Mahesh Wattamwar, a Computer Science Student Based in Nanded ,Maharashtra. My goal is to develop products that provide performant,responsive experience. I am currently pursuing my degree from <a target="_blank" href="https://www.sggs.ac.in/">SGGSIE&T</a> Nanded.  I am tech enthusiast, I love to build Full stack Application and currently focusing on React, Material UI and Frontend Frameworks.  </p>
 # Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working on **Android and Java**
-- 🌱 I’m currently learning **Javascript**, **Android**, **React**, **Frontend Design**
+- 👨🏽‍💻 I’m currently working on **Full Stack and DevOps**
+- 🌱 I’m currently learning **DevOps**, **Android**, **React**, **Frontend Design**
 - 👯 I’m looking to collaborate on  **OpenSource Projects** & **Any idea that impresses Me.**
 
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/mahiwattamwar?tab=repositories">**Github**</a>
 - 💬 Free feel to Ask me about anything, I am Happy to Help  you ☺
 - 📫 How to reach me: **maheshwattamwar001@gmail.com**
-- 😄 Pronouns: Web Developer and Android Developer
+- 😄 Pronouns: Full Stack Developer and DevOps Engineer
 - ⚡ Website : <a target="_blank" href="https://mahiwattamwar.github.io/">Mahesh Wattamwar</a>
 
 # Skills:
