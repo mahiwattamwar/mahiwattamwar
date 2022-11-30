@@ -24,7 +24,7 @@
 - 💬 Free feel to Ask me about anything, I am Happy to Help  you ☺
 - 📫 How to reach me: **maheshwattamwar001@gmail.com**
 - 😄 Pronouns: Full Stack Developer and DevOps Engineer
-- ⚡ Website : <a target="_blank" href="https://mahiwattamwar.github.io/">Mahesh Wattamwar</a>
+- ⚡ Website : <a target="_blank" href="https://maheshwattamwar-portfolio.netlify.app">Mahesh Wattamwar</a>
 
 # Skills:
 ## 🚀 Languages
@@ -49,6 +49,8 @@
     <a href="https://www.w3schools.com/pHp/default.asp" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/php-logo.png"/>  </a> 
     <!--  -->
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://icons8.com/icon/33039/amazon-web-services"/> </a> 
+
 </p>
 
 ## 🚀 Connect with me:
