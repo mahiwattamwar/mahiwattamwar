@@ -13,8 +13,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahesh</h1>
 <h3 align="center">I Enjoy Developing ideas that live on the internet, whether that be a website, application or anything related.</h3>
 
-  <p>I'm Mahesh Wattamwar, a Computer Science Student Based in Nanded ,Maharashtra. My goal is to develop products that provide performant,responsive experience. I am currently pursuing my degree from <a target="_blank" href="https://www.sggs.ac.in/">SGGSIE&T</a> Nanded.  I am tech enthusiast, I love to build Full stack Application and currently focusing on React, Material UI and Frontend Frameworks.  </p>
-# Talking about Personal Stuffs:
+  <p>I'm Mahesh Wattamwar, a Computer Science Student Based in Nanded, Maharashtra. My goal is to develop products that provide a performant, responsive experience. I have completed B.Tech in CSE from <a target="_blank" href="https://www.sggs.ac.in/">SGGSIE&T</a> Nanded.  I am a Tech-Enthusiast, I love to build Full stack Applications and currently focusing on React, Material UI, and Frontend Frameworks.  </p>
+# Talking about Personal kinds of Stuff:
 
 - 👨🏽‍💻 I’m currently working on **Full Stack and DevOps**
 - 🌱 I’m currently learning **DevOps**, **Android**, **React**, **Frontend Design**
