@@ -1,4 +1,4 @@
-<h1 align="center"> # Mahesh Wattamwar 💻
+<h1 align="center"> 👨🏽‍💻 Mahesh Wattamwar 💻
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 <h3 align="center">I Enjoy Developing ideas that live on the internet, whether that be a website, application or anything related.</h3>
 
 
-  <p>🚀I'm Mahesh Wattamwar, SAP BASIS Consultant @ Tata Consultancy Services (TCS) | Certified in SAP BASIS & HANA | Lifelong Learner | System Integration Enthusiast
+  <p>🚀 SAP BASIS Consultant @ Tata Consultancy Services (TCS) | Certified in SAP BASIS & HANA | Lifelong Learner | System Integration Enthusiast
 
 🔧 I specialize in the core mechanics of SAP landscapes—from daily health checks and client administration to system upgrades and troubleshooting. My hands-on experience spans ABAP & Java stacks, ST-PI/ST-A/PI patching, OSS connections, spool management, tablespace tuning, and SAP Note implementation.
 
