@@ -13,8 +13,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahesh</h1>
 <h3 align="center">I Enjoy Developing ideas that live on the internet, whether that be a website, application or anything related.</h3>
 
-  <p>I'm Mahesh Wattamwar, a Computer Science Student Based in Nanded, Maharashtra. My goal is to develop products that provide a performant, responsive experience. I have completed B.Tech in CSE from <a target="_blank" href="https://www.sggs.ac.in/">SGGSIE&T</a> Nanded.  I am a Tech-Enthusiast, I love to build Full stack Applications and currently focusing on React, Material UI, and Frontend Frameworks.  </p>
-  <p>🚀 SAP BASIS Consultant @ Tata Consultancy Services (TCS) | Certified in SAP BASIS & HANA | Lifelong Learner | System Integration Enthusiast
+
+  <p>🚀I'm Mahesh Wattamwar, SAP BASIS Consultant @ Tata Consultancy Services (TCS) | Certified in SAP BASIS & HANA | Lifelong Learner | System Integration Enthusiast
 
 🔧 I specialize in the core mechanics of SAP landscapes—from daily health checks and client administration to system upgrades and troubleshooting. My hands-on experience spans ABAP & Java stacks, ST-PI/ST-A/PI patching, OSS connections, spool management, tablespace tuning, and SAP Note implementation.
 
