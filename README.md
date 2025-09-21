@@ -29,14 +29,14 @@
 🤝 Let’s connect to collaborate, learn, and thrive together in the SAP ecosystem!</p>
 # Talking about Personal kinds of Stuff:
 
-- 👨🏽‍💻 I’m currently working on **Full Stack and DevOps**
-- 🌱 I’m currently learning **DevOps**, **Android**, **React**, **Frontend Design**
+- 👨🏽‍💻 I’m currently working as **SAP Basis Consultant**
+- 🌱 I’m currently learning **SAP BTP**, **SAP CPI**, **SAP Cloud ALM**, **SAP S4HANA**
 - 👯 I’m looking to collaborate on  **OpenSource Projects** & **Any idea that impresses Me.**
 
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/mahiwattamwar?tab=repositories">**Github**</a>
 - 💬 Free feel to Ask me about anything, I am Happy to Help  you ☺
 - 📫 How to reach me: **maheshwattamwar001@gmail.com**
-- 😄 Pronouns: Full Stack Developer and DevOps Engineer
+- 😄 Pronouns: SAP BASIS CONSULTANT
 - ⚡ Website : <a target="_blank" href="https://maheshwattamwar-portfolio.netlify.app">Mahesh Wattamwar</a>
 
 # Skills:
