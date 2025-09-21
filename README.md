@@ -14,6 +14,19 @@
 <h3 align="center">I Enjoy Developing ideas that live on the internet, whether that be a website, application or anything related.</h3>
 
   <p>I'm Mahesh Wattamwar, a Computer Science Student Based in Nanded, Maharashtra. My goal is to develop products that provide a performant, responsive experience. I have completed B.Tech in CSE from <a target="_blank" href="https://www.sggs.ac.in/">SGGSIE&T</a> Nanded.  I am a Tech-Enthusiast, I love to build Full stack Applications and currently focusing on React, Material UI, and Frontend Frameworks.  </p>
+  <p>🚀 SAP BASIS Consultant @ Tata Consultancy Services (TCS) | Certified in SAP BASIS & HANA | Lifelong Learner | System Integration Enthusiast
+
+🔧 I specialize in the core mechanics of SAP landscapes—from daily health checks and client administration to system upgrades and troubleshooting. My hands-on experience spans ABAP & Java stacks, ST-PI/ST-A/PI patching, OSS connections, spool management, tablespace tuning, and SAP Note implementation.
+
+🧠 Certified in SAP Basis HANA, I'm deeply engaged with technologies like SAP HANA 2.0 SPS07, NetWeaver portal monitoring, and cloud platforms including AWS and Microsoft Azure. Whether it’s database optimization (Oracle, SAP HANA), or OS-level administration across SUSE, Red Hat, and Windows Server, I bring precision and adaptability to every task.
+
+💬 I believe in collaborative problem-solving—actively partnering with functional teams and users to resolve BASIS-level issues and create smoother SAP operations.
+
+📊 With a keen eye for simplifying technical content, I enjoy crafting guides, cheat sheets, and real-world explanations on tools like BRTOOLS, PuTTY, Git/GitHub, and Remedy BMC.
+
+🌱 Always curious, always growing—I'm passionate about learning emerging SAP technologies and sharing that knowledge with the community.
+
+🤝 Let’s connect to collaborate, learn, and thrive together in the SAP ecosystem!</p>
 # Talking about Personal kinds of Stuff:
 
 - 👨🏽‍💻 I’m currently working on **Full Stack and DevOps**
